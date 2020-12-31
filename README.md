@@ -7,6 +7,8 @@ Press RIGHT CLICK to erase the start point, end point and walls. <br />
 Press the SPACE Key to start the traversal between the 2 points. <br />
 Press the C Key to clear the board. <br />
 
-An example of the capabilities of this program are shown below:
+An example of the program is shown below.
 
 ![](pathfinding.gif)
+
+As we can see, the program searches from the start point to the end point, traversing around any walls in the way in order to find the shortest path.
